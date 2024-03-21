@@ -92,6 +92,10 @@ main a:hover {
         width: 180px;
     }
 
+    .dev {
+        font-size: 0.6rem;
+    }
+
     header h3 {
         font-size: 1.3rem;
     }
